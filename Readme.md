@@ -53,22 +53,6 @@ Winfield-Hospital-Sem2-main/
 ├── favicon_package_v0.16/    # Favicon and web manifest
 └── testing/                  # Possibly development/test files
 
-How to Run Locally
-
-Download or Clone this repository
-
-git clone https://github.com/your-username/Winfield-Hospital-Sem2-main.git
-cd Winfield-Hospital-Sem2-main
-
-
-Open the Homepage
-
-Double-click index.html
-
-Or open it in your browser:
-
-file:///path-to-folder/Winfield-Hospital-Sem2-main/index.html
-
 
 Future Enhancements
 
