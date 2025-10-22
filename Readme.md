@@ -30,29 +30,6 @@ JavaScript (ES6) – Interactivity and dynamic behavior (script.js, checkout.js)
 
 JSON – Local data management (products.json)
 
-Folder Structure
-Winfield-Hospital-Sem2-main/
-│
-├── index.html                # Homepage
-├── aboutus.html              # About Us section
-├── doctors.html              # Doctor listings
-├── consulting.html           # Consulting info
-├── services.html             # Hospital services
-├── login.html / signup.html  # Authentication pages
-├── checkout.html             # Checkout simulation
-│
-├── styles.css
-├── login.css
-├── checkout.css
-├── script.js
-├── checkout.js
-│
-├── products.json             # Medicine data
-├── Medicines/                # Medicine-related assets
-├── images/                   # Site images and icons
-├── favicon_package_v0.16/    # Favicon and web manifest
-└── testing/                  # Possibly development/test files
-
 
 Future Enhancements
 
