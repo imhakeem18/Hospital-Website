@@ -1,0 +1,630 @@
+/* General Reset */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: "IBM Plex Mono", monospace;
+    background-color: #f9f9f9; 
+}
+
+/* Logo and Header Styling */
+.logo img {
+    width: 200px;
+    height: auto;
+    display: block;
+
+}
+
+.logo {
+    border-bottom: 2px solid #ccc; 
+    height: 80px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.topic {
+    text-align: center;
+    background-color: rgba(145, 170, 224, 0.8); 
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding: 5px 0;
+    margin: 0;
+}
+
+/*footer*/
+.footer {
+    background-color: #002b4c; 
+    color: #fff;
+    padding: 40px 20px;
+
+    margin-top: 20px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.footer-left, .footer-right {
+    flex: 1;
+}
+
+.footer-left img {
+    width: 200px; 
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.footer-left ul, .footer-right ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-left ul li, .footer-right ul li {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+.footer-left ul li {
+    color: #ddd; 
+}
+.footer-left a {
+    text-decoration: none;
+}
+.footer-right ul{
+    text-align: left;
+    margin-left: 700px;
+    margin-top: 100px;
+}
+.footer-right ul li a {
+    color: #007bff; 
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+.footer-right ul li a:hover {
+    color: #fff; 
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #bbb; 
+}
+
+/* Checkout Section */
+#checkout-section {
+    max-width: 75%;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+#checkout-section h2 {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    padding-bottom: 0.5rem;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th {
+    font-weight: bold;
+    border-bottom: 2px solid #ccc; 
+    padding: 1rem;
+    text-transform: uppercase;
+}
+
+td {
+    padding: 1rem;
+    border-bottom: none;
+    vertical-align: middle;
+}
+
+
+.product-image {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    margin-right: 10px;
+    vertical-align: middle;
+    background-color: #f3f3f3;
+    border-radius: 8px;
+}
+
+td:first-child {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1rem;
+    text-align: left;
+}
+
+/* Total Amount */
+.total-amount {
+    text-align: right;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+
+    padding-top: 1rem;
+}
+
+/* Delivery form */
+
+/* General Reset */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: "IBM Plex Mono", monospace;
+    background-color: #fff; 
+}
+
+/* Form Title */
+.form-title {
+    font-size: 1.8rem;
+    font-weight: 600;
+    border-bottom: 2px solid #ccc;
+    margin-left: 170px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 38%;
+}
+
+/* Form Styling */
+.form-container form {
+    margin-left: 170px; 
+    width: 38%;
+}
+
+.form-container label {
+    font-weight: 600;
+    display: block;
+    margin-bottom: 0.3rem;
+}
+
+.form-container input, select {
+    width: 100%;
+    padding: 0.6rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+    box-sizing: border-box; 
+}
+
+.form-container input:focus, select:focus {
+    outline: none;
+    border-color: #91aae0;
+    box-shadow: 0 0 5px rgba(145, 170, 224, 0.5);
+}
+
+/* Delivery form */
+
+.Ship-form-container {
+    margin-left: 150px;
+    
+}
+
+.ship-form-title {
+    border-bottom: 2px solid #ccc;
+    width: 88%;
+}
+
+/* hidding the content */
+.hidden {
+    display: none; 
+}
+
+.Ship-form-container {
+    font-family: Arial, sans-serif;
+    padding: 1rem;
+}
+
+label {
+
+    margin: 0.5rem 0;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#content1, #content2, #content3 {
+    margin-top: 1rem;
+    color: #333;
+    font-size: 1rem;
+}
+
+/* Payment method */
+
+/* Container */
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    max-width: 100%;
+
+}
+
+/* Payment Section */
+.payment-section {
+    width: 70%;
+    margin-left: 150px;
+
+
+}
+
+.payment-section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #ccc;
+    width: 100%;
+}
+
+.payment-methods {
+    margin: 15px 0;
+}
+
+.payment-methods label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.payment-methods input {
+    margin-right: 10px;
+}
+
+.form-group {
+    margin: 10px 0;
+
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+
+
+.custom-input, .custom-select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 5px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+
+
+
+
+.form-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.form-row .form-group {
+    flex: 1;
+}
+
+.cvv-info {
+    font-size: 12px;
+    color: #777;
+}
+
+/* Billing Summary */
+.billing-summary {
+    width: 100%;
+
+    padding-left: px;
+    padding: 0;
+    margin-left: 80px;
+    margin-right: 20px;
+}
+
+.billing-summary h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #ccc;
+    width: 79%;
+}
+
+.billing-summary form {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.billing-summary .custom-input {
+    flex: 2;
+    padding: 8px;
+    margin-right: 10px;
+}
+
+.billing-summary button {
+    flex: 1;
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.billing-summary button:hover {
+    background-color: #ff8000;
+}
+
+.billing-summary ul {
+    list-style: none;
+    font-size: 16px;
+    width: 70%;
+}
+
+.billing-summary li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.billing-summary .total {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.hidden-purchase {
+    display: none;
+}
+
+#hidden-purchase {
+    display: none;
+}
+
+/* FInal button */
+.confirm-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.confirm-button {
+    background-color: #5bbad5;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.confirm-button:hover {
+    background-color: #4aa3c5;
+}
+
+/* Media queries */
+
+@media (max-width: 600px) {
+
+    /* General Reset */
+    body, html {
+        padding: 0;
+        margin: 0;
+        font-family: "IBM Plex Mono", monospace;
+        background-color: #f9f9f9;
+    }
+
+    /* Logo and Header Styling */
+    .logo {
+        height: 60px;
+        justify-content: center;
+    }
+
+    .logo img {
+        width: 150px;
+        height: auto;
+    }
+
+    .topic {
+        font-size: 1.2rem;
+        padding: 10px 0;
+    }
+
+    /* Footer */
+    .footer {
+        padding: 20px;
+        margin-top: 20px;
+    }
+
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-left, .footer-right {
+        flex: none;
+        text-align: center;
+    }
+
+    .footer-left img {
+        width: 150px;
+        margin-bottom: 10px;
+    }
+
+    .footer-right ul {
+        margin-left: 0;
+        margin-top: 0;
+        text-align: center;
+    }
+
+    /* Checkout Section */
+    #checkout-section {
+        max-width: 90%;
+        margin: 1rem auto;
+        padding: 1rem;
+    }
+
+    #checkout-section h2 {
+        font-size: 1.2rem;
+    }
+
+    /* Table Styling */
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        text-align: center;
+    }
+
+    th, td {
+        padding: 1rem;
+    }
+
+    .product-image {
+        width: 60px;
+        height: 60px;
+    }
+
+    td:first-child {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+    }
+
+    .total-amount {
+        font-size: 1rem;
+        text-align: center;
+        margin-top: 1rem;
+    }
+
+    /* Delivery Form */
+    .form-title {
+        font-size: 1.6rem;
+        margin-left: 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    .form-container form {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .form-container label {
+        font-size: 1rem;
+    }
+
+    .form-container input, select {
+        width: 100%;
+        padding: 0.6rem;
+        margin-bottom: 1rem;
+    }
+
+    .form-container input:focus, select:focus {
+        outline: none;
+        border-color: #91aae0;
+        box-shadow: 0 0 5px rgba(145, 170, 224, 0.5);
+    }
+
+    .Ship-form-container {
+        margin-left: 0;
+        padding: 1rem;
+    }
+
+    .ship-form-title {
+        width: 100%;
+    }
+
+    /* Payment Section */
+    .payment-section {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .payment-methods {
+        margin: 15px 0;
+    }
+
+    .payment-methods label {
+        margin-bottom: 5px;
+    }
+
+    /* Custom Input and Select */
+    .custom-input, .custom-select {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 5px;
+    }
+
+    /* Billing Summary */
+    .billing-summary {
+        margin-left: 0;
+        padding: 0;
+    }
+
+    .billing-summary h2 {
+        font-size: 1.5rem;
+    }
+
+    .billing-summary form {
+        display: block;
+    }
+
+    .billing-summary .custom-input {
+        flex: none;
+        margin-bottom: 10px;
+    }
+
+    .billing-summary button {
+        width: 100%;
+        padding: 10px;
+        font-size: 1rem;
+    }
+
+    .billing-summary ul {
+        width: 100%;
+        padding: 0;
+        margin: 10px 0;
+    }
+
+    .billing-summary li {
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    .billing-summary .total {
+        font-size: 1.2rem;
+    }
+
+    /* Final Button */
+    .confirm-container {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .confirm-button {
+        width: 100%;
+        padding: 12px;
+        font-size: 1.2rem;
+    }
+
+    .confirm-button:hover {
+        background-color: #4aa3c5;
+    }
+}

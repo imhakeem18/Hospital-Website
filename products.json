@@ -1,0 +1,331 @@
+[
+    {
+      "category": "Analgesics",
+      "products": [
+        {
+          "image": "Medicines/300x300Panadol-removebg-preview.png",
+          "alt": "Blood Glucose Meter",
+          "name": "PANADOL TABLETS PER CARD (12)",
+          "price": "Rs. 180.00"
+        },
+        {
+          "image": "Medicines/ibprofen.png",
+          "alt": "Max Strips 25's",
+          "name": "Ibuprofen Coated Tablets 200mg",
+          "price": "Rs. 300.00"
+        },
+        {
+          "image": "Medicines/Aspirin.png",
+          "alt": "Max Strips 50's",
+          "name": "Aspirin 81MG",
+          "price": "Rs. 150.00"
+        },
+        {
+          "image": "Medicines/Codeine.png",
+          "alt": "Max Strips 25's",
+          "name": "Codeine 30mg",
+          "price": "Rs. 500.00"
+        },
+        {
+          "image": "Medicines/Morphine.png",
+          "alt": "Max Strips 25's",
+          "name": "Morphine Injection",
+          "price": "Rs. 2,000.00"
+        },
+        {
+          "image": "Medicines/Tramadol.png",
+          "alt": "3 Ply Face Mask",
+          "name": "Tramadol 37.5mg",
+          "price": "Rs. 50.00"
+        }
+      ]
+    },
+    {
+      "category": "Antibiotics",
+      "products": [
+        {
+          "image": "Medicines/Amoxicillin.png",
+          "alt": "Blood Glucose Meter",
+          "name": "Amoxicillin 500mg",
+          "price": "Rs. 200.00"
+        },
+        {
+          "image": "Medicines/Azithromycin.png",
+          "alt": "Max Strips 25's",
+          "name": "Azithromycin 500mg",
+          "price": "Rs. 280.00"
+        },
+        {
+          "image": "Medicines/Ciprofloxacin.png",
+          "alt": "Max Strips 25's",
+          "name": "Ciprofloxacin 500mg",
+          "price": "Rs. 80.00"
+        },
+        {
+          "image": "Medicines/Clindamycin.png",
+          "alt": "Max Strips 25's",
+          "name": "Clindamycin 500mg",
+          "price": "Rs. 450.00"
+        },
+        {
+          "image": "Medicines/Doxycycline.png",
+          "alt": "Max Strips 25's",
+          "name": "Doxycycline 100mg",
+          "price": "Rs. 150.00"
+        },
+        {
+          "image": "Medicines/Cephalexin.png",
+          "alt": "Max Strips 50's",
+          "name": "Cephalexin 250mg",
+          "price": "Rs. 200.00"
+        }
+      ]
+    },
+    {
+      "category": "Antidepressants",
+      "products": [
+        {
+          "image": "Medicines/Fluoxetine.png",
+          "alt": "Blood Glucose Meter",
+          "name": "Fluoxetine 10mg",
+          "price": "Rs. 155.00"
+        },
+        {
+          "image": "Medicines/Sertraline.png",
+          "alt": "Max Strips 25's",
+          "name": "Sertraline 50mg",
+          "price": "Rs. 245.00"
+        },
+        {
+          "image": "Medicines/Citalopram.png",
+          "alt": "Max Strips 25's",
+          "name": "Citalopram 20mg",
+          "price": "Rs. 185.00"
+        },
+        {
+          "image": "Medicines/Escitalopram.png",
+          "alt": "Max Strips 25's",
+          "name": "Escitalopram 20mg",
+          "price": "Rs. 400.00"
+        },
+        {
+          "image": "Medicines/Duloxetine.png",
+          "alt": "Max Strips 25's",
+          "name": "Duloxetine 30mg",
+          "price": "Rs. 400.00"
+        },
+        {
+          "image": "Medicines/Venlafaxine.png",
+          "alt": "Max Strips 50's",
+          "name": "Venlafaxine 5x2",
+          "price": "Rs. 500.00"
+        }
+      ]
+    },
+    {
+        "category": "Antihistamines",
+        "products": [
+          {
+            "image": "Medicines/Diphenhydramine.png",
+            "alt": "Blood Glucose Meter",
+            "name": "Diphenhydramine 10ml",
+            "price": "Rs. 150.00"
+          },
+          {
+            "image": "Medicines/Loratadine.png",
+            "alt": "Max Strips 25's",
+            "name": "Loratadine 10mg",
+            "price": "Rs. 125.00"
+          },
+          {
+            "image": "Medicines/Cetirizine.png",
+            "alt": "Max Strips 25's",
+            "name": "Cetirizine 10mg",
+            "price": "Rs. 95.00"
+          },
+          {
+            "image": "Medicines/Fexofenadine.png",
+            "alt": "Max Strips 25's",
+            "name": "Fexofenadine 120mg",
+            "price": "Rs. 165.00"
+          },
+          {
+            "image": "Medicines/Desloratadine.png",
+            "alt": "Max Strips 25's",
+            "name": "Desloratadine 5mg",
+            "price": "Rs. 125.00"
+          },
+          {
+            "image": "Medicines/Chlorpheniramine.png",
+            "alt": "Max Strips 50's",
+            "name": "Chlorpheniramine 10x10",
+            "price": "Rs. 250.00"
+          }
+        ]
+      },
+      {
+        "category": "Antihypertensives",
+        "products": [
+          {
+            "image": "Medicines/Lisinopril.png",
+            "alt": "Blood Glucose Meter",
+            "name": "Lisinopril 20mg",
+            "price": "Rs. 250.00"
+          },
+          {
+            "image": "Medicines/Amlodipine.png",
+            "alt": "Max Strips 25's",
+            "name": "Amlodipine 10mg",
+            "price": "Rs. 50.00"
+          },
+          {
+            "image": "Medicines/Losartan.png",
+            "alt": "Max Strips 25's",
+            "name": "Losartan 50mg",
+            "price": "Rs. 275.00"
+          },
+          {
+            "image": "Medicines/Metoprolol.png",
+            "alt": "Max Strips 25's",
+            "name": "Metoprolol 25mg",
+            "price": "Rs. 100.00"
+          },
+          {
+            "image": "Medicines/Hydrochlorothiazide.png",
+            "alt": "Max Strips 25's",
+            "name": "Hydrochlorothiazide 12.5mg",
+            "price": "Rs. 45.00"
+          },
+          {
+            "image": "Medicines/Clonidine.png",
+            "alt": "Max Strips 50's",
+            "name": "Clonidine 0.2mg",
+            "price": "Rs. 200.00"
+          }
+        ]
+      },
+      {
+        "category": "Antivirals",
+        "products": [
+          {
+            "image": "Medicines/Oseltamivir.png",
+            "alt": "Blood Glucose Meter",
+            "name": "Oseltamivir 1x10",
+            "price": "Rs. 2,250.00"
+          },
+          {
+            "image": "Medicines/Acyclovir.png",
+            "alt": "Max Strips 25's",
+            "name": "Acyclovir 5g",
+            "price": "Rs. 150.00"
+          },
+          {
+            "image": "Medicines/Valacyclovir.png",
+            "alt": "Max Strips 25's",
+            "name": "Valacyclovir 500mg",
+            "price": "Rs. 600.00"
+          },
+          {
+            "image": "Medicines/Lamivudine.png",
+            "alt": "Max Strips 25's",
+            "name": "Lamivudine 150mg",
+            "price": "Rs. 485.00"
+          },
+          {
+            "image": "Medicines/Remdesivir.png",
+            "alt": "Max Strips 25's",
+            "name": "Remdesivir 100mg",
+            "price": "Rs. 3,625.00"
+          },
+          {
+            "image": "Medicines/Zidovudine.png",
+            "alt": "Max Strips 50's",
+            "name": "Zidovudine 100mg",
+            "price": "Rs. 500.00"
+          }
+        ]
+      },
+      {
+        "category": "Dermatologicals",
+        "products": [
+          {
+            "image": "Medicines/Hydrocortisone.png",
+            "alt": "Blood Glucose Meter",
+            "name": "Hydrocortisone 25mg",
+            "price": "Rs. 300.00"
+          },
+          {
+            "image": "Medicines/Benzoyl_Peroxide.png",
+            "alt": "Max Strips 25's",
+            "name": "Benzoyl Peroxide 170mg",
+            "price": "Rs. 7,850.00"
+          },
+          {
+            "image": "Medicines/Clotrimazole.png",
+            "alt": "Max Strips 25's",
+            "name": "Clotrimazole Cream 20g",
+            "price": "Rs. 150.00"
+          },
+          {
+            "image": "Medicines/Calamine_lotion.png",
+            "alt": "Max Strips 25's",
+            "name": "Calamine lotion 100ml",
+            "price": "Rs. 390.00"
+          },
+          {
+            "image": "Medicines/Tretinoin.png",
+            "alt": "Max Strips 25's",
+            "name": "Tretinoin 45g",
+            "price": "Rs. 1,585.00"
+          },
+          {
+            "image": "Medicines/Mupirocin.png",
+            "alt": "Max Strips 50's",
+            "name": "Mupirocin 22g",
+            "price": "Rs. 5,590.00"
+          }
+        ]
+      },
+      {
+        "category": "Vitamins and Supplements",
+        "products": [
+          {
+            "image": "Medicines/Vitamin_C.png",
+            "alt": "Blood Glucose Meter",
+            "name": "Vitamin C 500mg",
+            "price": "Rs. 5,000.00"
+          },
+          {
+            "image": "Medicines/Vitamin_D3.png",
+            "alt": "Max Strips 25's",
+            "name": "Vitamin D3 180 Soft gels",
+            "price": "Rs. 6,900.00"
+          },
+          {
+            "image": "Medicines/Vitamin_B12.png",
+            "alt": "Max Strips 25's",
+            "name": "Vitamin B12 5000MCG",
+            "price": "Rs. 7,553.00"
+          },
+          {
+            "image": "Medicines/Folic_acid.png",
+            "alt": "Max Strips 25's",
+            "name": "Folic acid 400ug 90 Tablets",
+            "price": "Rs. 2,490.00"
+          },
+          {
+            "image": "Medicines/Iron_supplements.png",
+            "alt": "Max Strips 25's",
+            "name": "Iron supplements 36mg",
+            "price": "Rs. 5,950.00"
+          },
+          {
+            "image": "Medicines/Calcium.png",
+            "alt": "Max Strips 50's",
+            "name": "Calcium 1200mg",
+            "price": "Rs. 5,590.00"
+          }
+        ]
+      }
+  ]
+  
